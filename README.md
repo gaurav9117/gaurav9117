@@ -1,7 +1,5 @@
 ### Hi there 👋
-![image title](https://rushter.com/counter.svg)
-Cache-Control: max-age=0, no-cache, no-store, must-revalidate
-[![trophy](https://github-profile-trophy.vercel.app/?username=gaurav9117)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **gaurav9117/gaurav9117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
