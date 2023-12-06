@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image title](https://rushter.com/counter.svg)
 
 <!--
 **gaurav9117/gaurav9117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
